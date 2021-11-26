@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "name": "./",
+      "path": "."
+    },
+    { "name": "heft/node-basic-tutorial", "path": "heft/heft-node-basic-tutorial" },
+    {
+      "name": "heft/webpack-basic-tutorial",
+      "path": "heft/heft-webpack-basic-tutorial"
+    },
+    {
+      "name": "heft/storybook-react-tutorial",
+      "path": "heft/heft-storybook-react-tutorial"
+    }
+  ],
+  "settings": {}
+}

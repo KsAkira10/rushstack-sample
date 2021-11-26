@@ -8,6 +8,12 @@
     "start": "heft start",
     "storybook": "heft start --storybook"
   },
+  "main": "lib/ToggleSwitch.js",
+  "types": "lib/ToggleSwitch.d.ts",
+  "files": [
+    "lib",
+    "lib-commonjs"
+  ],
   "devDependencies": {
     "@rushstack/eslint-config": "^2.4.0",
     "@rushstack/heft-jest-plugin": "^0.1.28",

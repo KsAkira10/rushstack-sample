@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { ToggleSwitch, IToggleEventArgs } from './ToggleSwitch';
+import { ToggleSwitch, IToggleEventArgs } from 'heft-storybook-react-tutorial';
 
 /**
  * This React component renders the application page.
